@@ -1,0 +1,9 @@
+.Xil/
+cpu.cache/
+cpu.hw/
+cpu.ip_user_files/
+cpu.runs/
+cpu.sim/
+*.jou
+*.log
+*.str
